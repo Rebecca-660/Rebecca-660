@@ -7,7 +7,7 @@ I enjoy turning data into research insights and building practical tools through
 
 ### [ETF Factor Research](https://github.com/Rebecca-660/factor-test)
 
-During my quantitative research internship, I developed Python workflows for ETF feature and label quality assurance, including recomputation checks, missing-data analysis, and multicollinearity diagnostics. I also applied LightGBM to ETF rotation research.
+During my quantitative research, I developed Python workflows for ETF feature and label quality assurance, including recomputation checks, missing-data analysis, and multicollinearity diagnostics. I also applied LightGBM to ETF rotation research.
 
 ### [LLM-Agent Experiments on DAO Governance](https://github.com/Rebecca-660/llm-agent-dao)
 
@@ -29,7 +29,7 @@ I defined functional requirements and data structures, designed the system archi
 
 ### [NaturePheroViz](https://github.com/shatianming5/NaturePheroViz)
 
-A collaborative project I participate in. The paper has been submitted to AAAI2026. 
+A collaborative project I participate in, and the paper has been submitted to AAAI2026. 
 
 ## Technical Skills
 
