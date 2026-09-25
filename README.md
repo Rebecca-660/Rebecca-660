@@ -29,7 +29,7 @@ I defined functional requirements and data structures, designed the system archi
 
 ### [NaturePheroViz](https://github.com/shatianming5/NaturePheroViz)
 
-A collaborative project I participate in, and the paper has been submitted to AAAI2026. 
+Fourth author of a paper on improving the reliability of LLM-based data agents through execution-grounded clarification and reinforcement learning from verifiable rewards (RLVR). The study addresses cases where code runs successfully but computes the wrong quantity due to ambiguous user intent. The paper has advanced to the second round of review at AAAI.
 
 ## Technical Skills
 
